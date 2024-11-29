@@ -21,10 +21,10 @@
 
 ## **Inspiration**
 
-Do you ever wonder whether your vote really matters?
+**Do you ever wonder whether your vote really matters?**
 At 20, we found out how a lot of young adults were disconnected with the process of voting because it's just too complicated or has absolutely nothing to do with them. What if we told you that your vote is powerful to shape the future? And what if learning about it was actually easy, fun, and rewarding? That's why we've built voteGyan, so that voting education turns into a fun experience in which you earn points, level up, and unlock knowledge that empowers you to vote with confidence.
 
-Ready to Make a Real Difference?
+**Ready to Make a Real Difference?**
 Time to stop wondering and start doing. voteGyan transforms this daunting process of learning about voting into a powerhouse of excitement and motivation. Are you ready to take control of your future and be part of that generation that makes its voice heard? The journey to an informed voter starts now.
 
 ---
