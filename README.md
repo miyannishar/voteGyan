@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>voteGyan 📚🗳️</h1>
+  <h1>voteGyan</h1>
   <p>
     <i>Empowering the next generation of voters through engaging education and gamification.</i>
   </p>
@@ -19,15 +19,14 @@
 
 ## **Inspiration**
 
-**VoteGyan** was born out of a passion to address the gap in voter participation among young people. Studies show that many young adults fail to vote because they lack understanding of the voting process or feel disengaged from politics. **VoteGyan** seeks to change that by making civic knowledge fun, accessible, and relevant.
+**voteGyan** was born out of a passion to address the gap in voter participation among young people. Studies show that many young adults fail to vote because they lack understanding of the voting process or feel disengaged from politics. **VoteGyan** seeks to change that by making civic knowledge fun, accessible, and relevant.
 
 The idea came to life after recognizing that gamification—a proven motivator—could be a game-changer in educating Gen Z and millennials about their democratic rights. By combining interactive lessons, daily challenges, and rewards, we aim to spark interest and empower users to make informed decisions.
 
 ---
 
 ## **What it does**
-
-**VoteGyan** transforms the way young voters interact with civic education through a gamified, mobile-first experience.  
+**voteGyan** is a mobile learning application that engages users in knowledge about the voting process and government, allowing users to earn points towards prizes.
 
 ### **Core Features**  
 - **Interactive Lessons**  
