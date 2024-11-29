@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
 </div>
 
 ---
@@ -95,7 +94,6 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 ## Accomplishments that we are Proud Of
 
 - Designed a game-based rewards system that incentives users to learn.
-- Integrated AI to create interactive and engaging educational content.
 - Designed an intuitive, mobile-first interface that works seamlessly across devices.
 - Curated a database of impartial lessons to make civics accessible and impactful.
 
