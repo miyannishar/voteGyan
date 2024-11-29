@@ -35,7 +35,6 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 ### **Core Features**  
 - **Interactive Lessons**  
   - Bite-sized, easily digestible modules that explain the voting process, government roles, and the importance of civic participation.  
-
 - **Personal Avatar System**  
   - Users can create and customize avatars, unlocking upgrades and accessories with earned points.  
 
@@ -48,9 +47,6 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 
 - **Progress Tracking**  
   - Monitor learning progress, streaks, and point milestones through a user-friendly dashboard.  
-
-- **Notifications**  
-  - Stay informed with reminders for key election dates and daily challenge alerts.  
 
 ---
 
