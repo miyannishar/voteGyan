@@ -1,7 +1,9 @@
 <div align="center">
   <h1>voteGyan</h1>
+  <p>
+<i>Empowering the next generation of voters through engaging education and gamification.</i></p>
 </div>
-<i>Empowering the next generation of voters through engaging education and gamification.</i>
+
 
 
 
