@@ -5,6 +5,9 @@
   </p>
 </div>
 
+![voteGyan Logo](![Screenshot 2024-11-29 at 2 09 00 AM](https://github.com/user-attachments/assets/290effb9-acd8-4bc5-aef0-f5eda254dc3e)
+)
+
 ---
 
 <div align="center">
