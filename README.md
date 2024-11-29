@@ -34,7 +34,8 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 
 ### **Core Features**  
 - **Interactive Lessons**  
-  - Bite-sized, easily digestible modules that explain the voting process, government roles, and the importance of civic participation.  
+  - Bite-sized, easily digestible modules explaining the voting process, government roles, and the importance of civic participation.
+      
 - **Personal Avatar System**  
   - Users can create and customize avatars, unlocking upgrades and accessories with earned points.  
 
@@ -42,11 +43,11 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
   - Quick quizzes and mini-games that reinforce learning while encouraging streaks.  
 
 - **Points and Rewards System**  
-  - Earn points for completing lessons and challenges.  
-  - Redeem points for virtual prizes like avatar outfits or exclusive badges.  
+  - Earn points for completing lessons and challenges.
+  - Redeem points for virtual prizes, such as avatar outfits or exclusive badges. 
 
 - **Progress Tracking**  
-  - Monitor learning progress, streaks, and point milestones through a user-friendly dashboard.  
+  - Follow the learning progress, including streaks and point milestones, through a user-friendly dashboard.  
 
 ---
 
@@ -79,30 +80,24 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 - Secure storage for user data, compliant with best practices.  
 
 ---
-
 ## **Challenges we ran into**
 
-1. **Time Constraints**  
-   - Balancing ambitious features with the limited time of a hackathon.  
-
-2. **Data Accuracy**  
-   - Ensuring all content is unbiased and fact-checked to maintain credibility.  
-
-3. **User Engagement**  
-   - Designing features that keep users motivated to return daily and stay invested.  
-
-4. **Scalability**  
-   - Building infrastructure capable of supporting a growing user base without performance issues.  
-
+1. **Data Accuracy**
+- Making sure everything is unbiased, fact-checked, and credible.
+  
+2. **User Engagement**
+- Implementing features that will make users want to come back every day and be more engaged.
+  
+3. **Scalability**
+- Creating infrastructure that will handle a growing user base without performance issues.
 ---
 
-## **Accomplishments that we're proud of**
+## Accomplishments that we are Proud Of
 
-- Built a working prototype in just 36 hours.  
-- Developed a gamified rewards system that motivates users to learn.  
-- Successfully integrated AI to create interactive and engaging educational content.  
-- Designed an intuitive, mobile-first interface that works seamlessly across devices.  
-- Curated a database of unbiased lessons to make civic education accessible and impactful.  
+- Designed a game-based rewards system that incentives users to learn.
+- Integrated AI to create interactive and engaging educational content.
+- Designed an intuitive, mobile-first interface that works seamlessly across devices.
+- Curated a database of impartial lessons to make civics accessible and impactful.
 
 ---
 
@@ -114,25 +109,22 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 
 ---
 
-## **What's next for voteGyan**
+## What's next for voteGyan
 
 1. **User Testing**
-   - Conduct usability studies with young voters to refine the app.  
+- Conduct usability studies with young voters to iterate on the app.
 
-3. **Content Expansion**  
-   - Add modules on state-specific voting laws and civic participation.  
+2. **Content Expansion**
+- Adding modules on state-specific voting laws and civic participation.
 
-4. **Enhanced Rewards**  
-   - Include new avatar customization options, badges, and exclusive prizes.  
+3. **Enhanced Rewards**
+- Add new avatar customization options, badges, and exclusive prizes to the app.
 
-5. **Localization**  
-   - Translate lessons into multiple languages to increase accessibility.  
+4. **Community Features**
+- Create online forums for users to debate civil issues and share their insight.
 
-6. **Community Features**  
-   - Introduce forums for users to discuss civic topics and share knowledge.  
-
-7. **Dynamic Notifications**  
-   - Alerts for personalized reminders based on location, such as election dates or voter registration deadlines.  
+5. **Dynamic Notifications**
+- Alerts for personalized reminders - election dates or when the voter registration deadline approaches.
 
 ---
 
