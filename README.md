@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>VoteGyan 📚🗳️</h1>
+  <h1>voteGyan 📚🗳️</h1>
   <p>
     <i>Empowering the next generation of voters through engaging education and gamification.</i>
   </p>
@@ -115,24 +115,24 @@ The idea came to life after recognizing that gamification—a proven motivator�
 
 ---
 
-## **What's next for VoteGyan**
+## **What's next for voteGyan**
 
-1. **User Testing**  
+1. **User Testing**
    - Conduct usability studies with young voters to refine the app.  
 
-2. **Content Expansion**  
+3. **Content Expansion**  
    - Add modules on state-specific voting laws and civic participation.  
 
-3. **Enhanced Rewards**  
+4. **Enhanced Rewards**  
    - Include new avatar customization options, badges, and exclusive prizes.  
 
-4. **Localization**  
+5. **Localization**  
    - Translate lessons into multiple languages to increase accessibility.  
 
-5. **Community Features**  
+6. **Community Features**  
    - Introduce forums for users to discuss civic topics and share knowledge.  
 
-6. **Dynamic Notifications**  
+7. **Dynamic Notifications**  
    - Alerts for personalized reminders based on location, such as election dates or voter registration deadlines.  
 
 ---
