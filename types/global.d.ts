@@ -1,4 +1,4 @@
-import { Timestamp } from "firebase/firestore";
+import { Firestore, Timestamp } from "firebase/firestore";
 
 export {};
 
@@ -7,6 +7,8 @@ declare global {
    * User information
    */
   interface User {
+    uid: unknown;
+    uid(FIRESTORE_DB: Firestore, arg1: string, uid: any): unknown;
     user_id: string;
     name: string;
     email: string;

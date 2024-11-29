@@ -69,7 +69,7 @@ const Profile = ({ navigation, user: secureUser }: RouterProps) => {
       <View style={styles.head}>
         <Text style={styles.title}>Politicool</Text>
         <Image
-          source={require("../../assets/eyeglasses.png")}
+          source={require("../../assets/logo2.png")}
           style={styles.logo}
         />
       </View>

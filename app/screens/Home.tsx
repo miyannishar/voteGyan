@@ -18,7 +18,7 @@ import { insights, insights2, insights3, isToday } from "../../utils/utils";
 import PointsButton from "../components/PointsButton";
 import ActionButton from "../components/ActionButton";
 import DailyChallengeModal from "../components/DailyChallengeModal";
-import { doc, onSnapshot, collection } from "firebase/firestore";
+import { doc, onSnapshot } from "firebase/firestore";
 import { FIRESTORE_DB } from "../../lib/firebase/firebase";
 import InsightCarousel from "../components/InsightCarousel";
 
@@ -55,19 +55,16 @@ const Home = ({ navigation, user: secureUser }: RouterProps) => {
   }, [secureUser]);
 
   useEffect(() => {
-    if (!user) return;
-
-    const userDocRef = doc(FIRESTORE_DB, "users", user.uid);
-    
-    const unsubscribe = onSnapshot(userDocRef, (doc) => {
-      if (doc.exists()) {
-        const userData = doc.data();
-        setUser(userData);
+    const unsub = onSnapshot(
+      doc(FIRESTORE_DB, "users", secureUser.uid),
+      (doc) => {
+        const newData = doc.data() as User;
+        setUser(newData);
       }
-    });
+    );
 
-    return () => unsubscribe();
-  }, [user?.uid]);
+    return () => unsub();
+  }, []);
 
   if (loading) {
     return (
@@ -84,9 +81,9 @@ const Home = ({ navigation, user: secureUser }: RouterProps) => {
       <View style={styles.container}>
         <View style={styles.headerInfo}>
           <View style={styles.head}>
-            <Text style={styles.appName}>Politicool</Text>
+            <Text style={styles.appName}>voteGyan</Text>
             <Image
-              source={require("../../assets/eyeglasses.png")}
+              source={require("../../assets/logo4.png")}
               style={styles.logo}
             />
           </View>
