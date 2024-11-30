@@ -101,7 +101,7 @@ const Home = ({ navigation, user: secureUser }: RouterProps) => {
               source={require("../../assets/profile.png")}
               style={styles.avatarImage}
             />
-            <Text style={{ fontWeight: "bold" }}>Go to Profile</Text>
+            <Text style={{ fontWeight: "bold", color: "#FFFFFF" }}>Go to Profile</Text>
           </TouchableOpacity>
           <View style={styles.headerContent}>
             <PointsButton
@@ -134,28 +134,28 @@ const Home = ({ navigation, user: secureUser }: RouterProps) => {
             text="Until voting ends"
             callToActionText="View more info"
             head={
-              <View>
-                <Text style={styles.importantText}>140 Days</Text>
+              <View style={styles.view}>
+                <Text style={[styles.importantText, { color: "#000000" }]}>140 Days</Text>
               </View>
             }
-            onPress={() => void 0}
+            onPress={() => {}}
           />
         </View>
         <View style={styles.insights}>
-          <Text style={styles.title}>Insights</Text>
-          <Text>Voting 101</Text>
+          <Text style={[styles.title, { color: "white" }]}>Insights</Text>
+          <Text style={{ color: "white" }}>Voting 101</Text>
           <InsightCarousel
             data={insights}
             navigation={navigation}
             completedLessons={user.lessonsCompleted}
           />
-          <Text>The Senate</Text>
+          <Text style={{ color: "white" }}>The Senate</Text>
           <InsightCarousel
             data={insights2}
             navigation={navigation}
             completedLessons={user.lessonsCompleted}
           />
-          <Text>The Electoral College</Text>
+          <Text style={{ color: "white" }}>The Electoral College</Text>
           <InsightCarousel
             data={insights3}
             navigation={navigation}
@@ -178,6 +178,7 @@ const styles = StyleSheet.create({
     fontSize: 28,
     fontWeight: "bold",
     marginBottom: 8,
+    color: "#FFFFFF",
   },
   view: {
     alignItems: "center",
@@ -191,7 +192,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     position: "relative",
-    backgroundColor: "#EBF4FF", // Off-white color
+    backgroundColor: "#1A1A2E",
     gap: 16,
     paddingVertical: 16,
   },
@@ -209,9 +210,9 @@ const styles = StyleSheet.create({
     gap: 8,
     paddingVertical: 8,
     paddingHorizontal: 12,
-    borderRadius: 4,
-    backgroundColor: "white",
-    shadowColor: "#000",
+    borderRadius: 8,
+    backgroundColor: "#232342",
+    shadowColor: "#E94560",
     shadowOffset: {
       width: 0,
       height: 2,
@@ -238,9 +239,12 @@ const styles = StyleSheet.create({
   },
   streak: {
     fontWeight: "bold",
+    color: "#FFFFFF",
   },
   headerText: {
     fontSize: 24,
+    color: "#FFFFFF",
+    fontFamily: "System",
   },
   headerInfo: {
     marginTop: 50,
@@ -261,6 +265,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 20,
     textAlign: "center",
+    color: "#FFFFFF",
   },
   actionBar: {
     flexDirection: "row",
@@ -270,16 +275,17 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   insights: {
-    backgroundColor: "white",
+    backgroundColor: "#232342",
     gap: 8,
     padding: 16,
   },
   title: {
     fontSize: 16,
     fontWeight: "bold",
+    color: "#1A1A2E",
   },
   text: {
-    color: "white",
+    color: "#FFFFFF",
     fontSize: 20,
   },
   image: {

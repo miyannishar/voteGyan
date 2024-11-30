@@ -42,11 +42,10 @@ export default IconButton;
 const styles = StyleSheet.create({
   button: {
     flex: 1,
-    backgroundColor: "white",
-    borderColor: "#007AFF",
+    backgroundColor: "#232342",
+    borderColor: "#E94560",
     borderWidth: 1,
     borderRadius: 8,
-    borderStyle: "solid",
     paddingVertical: 12,
     paddingHorizontal: 12,
     justifyContent: "center",
@@ -55,14 +54,16 @@ const styles = StyleSheet.create({
     flexDirection: "row",
   },
   buttonText: {
-    color: "#007AFF",
+    color: "#FFFFFF",
     fontSize: 16,
     textAlign: "center",
     fontWeight: "bold",
+    fontFamily: "System",
   },
   icon: {
     width: 24,
     height: 24,
+    tintColor: "#FFFFFF",
   },
   disabled: {
     opacity: 0.4,
