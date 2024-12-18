@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>voteGyan</h1>
+  <h2>voteGyan</h2>
   <p>
 <i>Empowering the next generation of voters through engaging education and gamification.</i></p>
 </div>
