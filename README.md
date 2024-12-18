@@ -128,6 +128,42 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 
 ---
 
+---
+
+## Contributors
+
+Introducing the minds behind ECo-nnect's mission for a sustainable future!
+
+
+**<p align="center">Ahamad Mamun Nishar Miya</p>**
+   <p align="center">
+     <img src="NisharHeadshot.png" alt="Ahamad Mamun Nishar Miya's Picture" width="250">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/nishar-miya/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://github.com/miyannishar">
+       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
+     </a>
+   </p>
+
+**<p align="center">Aastika Banstola</p>**
+   <p align="center">
+     <img src="AastikaBHeadshot.png" alt="Aastika Banstola's Picture" width="250">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/aastika-/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://github.com/aastikab">
+       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
+     </a>
+   </p>
+
+
+
+
 <div align="center">
   <i>VoteGyan: Transforming civic knowledge into an engaging journey.</i>
 </div>
