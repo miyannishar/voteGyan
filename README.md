@@ -132,7 +132,7 @@ Time to stop wondering and start doing. voteGyan transforms this daunting proces
 
 ## Contributors
 
-Introducing the minds behind ECo-nnect's mission for a sustainable future!
+Introducing the minds behind voteGyan
 
 
 
