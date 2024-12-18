@@ -2,6 +2,8 @@
   <h2>voteGyan</h2>
   <p>
 <i>Empowering the next generation of voters through engaging education and gamification.</i></p>
+
+  ![voteGyan Logo](voteGyan.png)
 </div>
 
 
